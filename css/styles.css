@@ -60,7 +60,7 @@ p {
 /* Download buttons */
 
 .download-buttons {
-  margin: 5% 3% 5% 0;
+  margin: 5%;
 }
 
 /* Title image */
@@ -68,7 +68,7 @@ p {
 .title-image {
   width: 60%;
   transform: rotate(25deg);
-
+  margin: 20px
   position: absolute;
   right: 30%;
 }
